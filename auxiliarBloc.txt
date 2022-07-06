@@ -3,3 +3,4 @@ add banner
 add sections
 add footer
 add back to top button
+add date dynamically
