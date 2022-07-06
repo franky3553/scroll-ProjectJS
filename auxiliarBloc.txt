@@ -1,3 +1,4 @@
 add navbar
 add banner
 add sections
+add footer
