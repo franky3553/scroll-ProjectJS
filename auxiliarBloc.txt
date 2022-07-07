@@ -6,3 +6,4 @@ add back to top button
 add date dynamically
 add navtoggle dynamically
 add fixed navbar
+add smooth scrolling
